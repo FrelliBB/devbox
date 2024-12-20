@@ -1,0 +1,53 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "terraform@latest": {
+      "last_modified": "2024-12-05T05:26:01Z",
+      "resolved": "github:NixOS/nixpkgs/929116e316068c7318c54eb4d827f7d9756d5e9c#terraform",
+      "source": "devbox-search",
+      "version": "1.10.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1gki22vdpgas270y6fs84dl5x3jn7bk7-terraform-1.10.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1gki22vdpgas270y6fs84dl5x3jn7bk7-terraform-1.10.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/jh9y5iybg8gjw292aailcy25l9yj95f9-terraform-1.10.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/jh9y5iybg8gjw292aailcy25l9yj95f9-terraform-1.10.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hk343al5p14ya5djrkf1bjggi5yg3jr0-terraform-1.10.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hk343al5p14ya5djrkf1bjggi5yg3jr0-terraform-1.10.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/x21avpm4l062w7dhk4ifcifb9bb09zrs-terraform-1.10.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/x21avpm4l062w7dhk4ifcifb9bb09zrs-terraform-1.10.1"
+        }
+      }
+    }
+  }
+}
